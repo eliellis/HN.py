@@ -1,5 +1,5 @@
 ```python
-from HN import news
+from HN import HN as news
 
 x = news.HackerNews()
 for item in x.titles:
