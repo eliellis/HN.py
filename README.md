@@ -1,3 +1,4 @@
+#An example: 
 ```python
 from HN import HN as news
 
